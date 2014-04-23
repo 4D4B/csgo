@@ -27,4 +27,4 @@ server side
     console -> rcon script print(entities_by_classname("weapon_c4")[0].GetOrigin())
 ````
 
-"'s don't with console typed rcon executed scripts, need to make a script file like example.nut and use script_execute
+"'s don't work with console typed rcon executed scripts, need to make a script file like example.nut and use script_execute
